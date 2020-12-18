@@ -1,17 +1,48 @@
-### Hi there 👋
-🌱 I’m currently learning DSA and Web Development...
+<img align="right" height="180px" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/progirl.png" alt="image" />
 
-<!--
-**Arpita309/Arpita309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
 
-Here are some ideas to get you started:
+## Hi there, I'm Arpita Tiwari 👋🏻 
+ 
+I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
+<br>
+🌱 I’m currently learning DSA & GraphQL <br>
+💻<a target="_blank" href="https://react-resume-template-master.now.sh/"> Have a look at my portfolio</a>
+  <p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DSA and Web Development...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&count_private=true&title_color=e6005c" alt="Deeksha's github stats" />
+
+  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&title_color=e6005c" />
+<!---
+<a href="https://github.com/Deeksha2501/Online_Classroom_Web_App">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
+ </a>
+<a href="https://github.com/Deeksha2501/Daily-Newspaper-using-reactJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deeksha2501&repo=Daily-Newspaper-using-reactJS&title_color=e6005c" />
+ </a>
 -->
+<br> 
+<br>
+<br>
+
+<!-- ## Get in touch:
+
+<a style="padding:10px" href="mailto: sharmadeeksha325@gmail.com">
+  <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
+</a>
+
+<a style="padding:10px" href="https://www.linkedin.com/in/deeksha-sharma-5430b8188/">
+  <img style="width:40px" src="resources/linkedin.png" alt="Linkedin" />
+</a>
+
+<a style="padding:10px" href="https://www.quora.com/profile/Deeksha-Sharma-774">
+  <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
+</a> -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Deeksha2501/count.svg" />
+</p>
