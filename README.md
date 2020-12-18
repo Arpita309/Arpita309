@@ -7,7 +7,7 @@
 I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <br>
 🌱 I’m currently learning DSA & GraphQL <br>
-💻 Have a look at my portfolio<br><a target="_blank" href="https://react-resume-template-master.now.sh/"><img  height='40' src="https://img.icons8.com/bubbles/50/000000/domain.png"/> </a>
+💻 <a target="_blank" href="https://react-resume-template-master.now.sh/">Have a look at my portfolio </a>
   <p>
 <br>
 
