@@ -27,14 +27,14 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/linkedin.png' width = 40px>
 </a>
 <a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
-  <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
+  <i class="ri-mail-line"></i>
 </a>
 
 ##### Visit my [Portfolio](https://react-resume-template-master.now.sh/)
 
 
 Download My
-<a href="https://drive.google.com/drive/u/1/folders/1LtUANRQKyRf0MnJ1jGUFAKrsYfzp4CpC" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
+<a href="https://drive.google.com/file/d/1tvt_3jGf_gXw3qedr-bQUwdH1drYdJr6/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
 
 
 
