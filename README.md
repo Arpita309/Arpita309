@@ -13,9 +13,9 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 
 
 
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Deeksha2501&show_icons=true&count_private=true&title_color=e6005c" alt="Deeksha's github stats" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Arpita309&show_icons=true&count_private=true&title_color=e6005c" alt="Arpita's github stats" />
 
-  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha2501&title_color=e6005c" />
+  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita309&title_color=e6005c" />
 <!---
 <a href="https://github.com/Deeksha2501/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
@@ -30,19 +30,17 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 
 <!-- ## Get in touch:
 
-<a style="padding:10px" href="mailto: sharmadeeksha325@gmail.com">
+<a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
   <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
 </a>
 
-<a style="padding:10px" href="https://www.linkedin.com/in/deeksha-sharma-5430b8188/">
+<a style="padding:10px" href="https://www.linkedin.com/in/arpita-tiwari-947bba179/">
   <img style="width:40px" src="resources/linkedin.png" alt="Linkedin" />
 </a>
 
-<a style="padding:10px" href="https://www.quora.com/profile/Deeksha-Sharma-774">
-  <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
-</a> -->
+
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Deeksha2501/count.svg" />
+  <img src="https://profile-counter.glitch.me/Arpita309/count.svg" />
 </p>
