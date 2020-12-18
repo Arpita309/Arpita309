@@ -24,10 +24,10 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 
 
 <a href="https://www.linkedin.com/in/arpita-tiwari-947bba179/">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/linkedin.png' width = 40px>
+<img class="ri-linkedin-box-fill"></img>
 </a>
 <a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
-  <i class="ri-mail-line"></i>
+  <img class="ri-mail-line"></img>
 </a>
 
 ##### Visit my [Portfolio](https://react-resume-template-master.now.sh/)
