@@ -42,5 +42,5 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Arpita309/count.svg" />
+  <img src="https://profile-counter.glitch.me/arpita309/count.svg" />
 </p>
