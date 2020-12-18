@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning DSA and Web Development...
 
 <!--
 **Arpita309/Arpita309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
