@@ -30,7 +30,7 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
   <img class="ri-mail-line"></img>
 </a>
 
-##### Visit my [Portfolio](https://react-resume-template-master.now.sh/)
+
 
 
 Download My
