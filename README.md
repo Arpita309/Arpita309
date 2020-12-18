@@ -7,7 +7,7 @@
 I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <br>
 🌱 I’m currently learning DSA & GraphQL <br>
-💻<a target="_blank" href="https://react-resume-template-master.now.sh/"> Have a look at my portfolio</a>
+💻 Have a look at my portfolio<br><a target="_blank" href="https://react-resume-template-master.now.sh/"><img  height='40' src="https://img.icons8.com/bubbles/50/000000/domain.png"/> </a>
   <p>
 <br>
 
@@ -20,21 +20,22 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <br> 
 <br>
 <br>
-####  📫 How to reach me 
-
+ 📫 Get in touch 
+<br>
 
 <a href="https://www.linkedin.com/in/arpita-tiwari-947bba179/">
-<img class="ri-linkedin-box-fill"></img>
+<img  height='40px' src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 <a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
-  <img class="ri-mail-line"></img>
+  <img  height='40px' src="https://img.icons8.com/bubbles/50/000000/email.png"/>
 </a>
 
 
 
 
-Download My
-<a href="https://drive.google.com/file/d/1tvt_3jGf_gXw3qedr-bQUwdH1drYdJr6/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
+ My <b>Resume</b>
+<br>
+<a href="https://drive.google.com/file/d/1tvt_3jGf_gXw3qedr-bQUwdH1drYdJr6/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><img height='40' src="https://img.icons8.com/nolan/64/submit-resume.png"/></a>
 
 
 
