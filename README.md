@@ -16,27 +16,31 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Arpita309&show_icons=true&count_private=true&title_color=e6005c" alt="Arpita's github stats" />
 
   <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita309&title_color=e6005c" />
-<!---
-<a href="https://github.com/Deeksha2501/Online_Classroom_Web_App">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Deeksha2501&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
- </a>
-<a href="https://github.com/Deeksha2501/Daily-Newspaper-using-reactJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deeksha2501&repo=Daily-Newspaper-using-reactJS&title_color=e6005c" />
- </a>
--->
+
 <br> 
 <br>
 <br>
+####  📫 How to reach me 
 
- ## Get in touch:
 
+<a href="https://www.linkedin.com/in/arpita-tiwari-947bba179/">
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/linkedin.png' width = 40px>
+</a>
 <a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
   <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
 </a>
 
-<a style="padding:10px" href="https://www.linkedin.com/in/arpita-tiwari-947bba179/">
-  <img style="width:40px" src="resources/linkedin.png" alt="Linkedin" />
-</a>
+##### Visit my [Portfolio](https://react-resume-template-master.now.sh/)
+
+
+Download My
+<a href="https://drive.google.com/drive/u/1/folders/1LtUANRQKyRf0MnJ1jGUFAKrsYfzp4CpC" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
+
+
+
+
+
+
 
 
 
