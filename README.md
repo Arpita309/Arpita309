@@ -28,7 +28,7 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <br>
 <br>
 
-<!-- ## Get in touch:
+ ## Get in touch:
 
 <a style="padding:10px" href="mailto: arpitatiwari309@gmail.com">
   <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
