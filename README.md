@@ -35,7 +35,7 @@ I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 
  My <b>Resume</b>
 <br>
-<a href="https://drive.google.com/file/d/1iqjgNJWjQ94B_cy1cVxHYY787ydtyJ-i/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><img height='40' src="https://img.icons8.com/nolan/64/submit-resume.png"/></a>
+<a href="https://drive.google.com/file/d/1DZpbWidW-9lrFFbaNHNifbc4mSIlZC4y/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><img height='40' src="https://img.icons8.com/nolan/64/submit-resume.png"/></a>
 
 
 
