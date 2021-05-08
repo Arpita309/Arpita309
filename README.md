@@ -7,7 +7,7 @@
 I'm Full Stack (MERN) Developer with curiosity to learn new things. <br>
 <br>
 🌱 I’m currently learning DSA & GraphQL <br>
-💻 <a target="_blank" href="https://github.com/Arpita309">Have a look at my portfolio </a>
+💻 <a target="_blank" href="https://arpita-tiwari-1hkuon2bh.vercel.app/">Have a look at my portfolio </a>
   <p>
 <br>
 
